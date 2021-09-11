@@ -5,6 +5,9 @@ This is a basic JS Discord bot I made following Beau Carnes' tutorial (https://w
 
 To-do list:
   - Add $help command
-  - General defensive programming
-  - Make $del command more intuitive
+  - Add quotes around $inspire command
+  - Update $del to be more intutitve (e.g. show index nums)
+  - Add $reset command
+  - Add command for updating / showing / modifying list of "sad words"
+  
  
