@@ -5,4 +5,6 @@ This is a basic JS Discord bot I made following Beau Carnes' tutorial (https://w
 
 To-do list:
   - Add $help command
-  - Give bot a profile picture
+  - General defensive programming
+  - Make $del command more intuitive
+ 
